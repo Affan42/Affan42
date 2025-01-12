@@ -12,7 +12,7 @@
   </ul>
     <li>Educational Website</li>
   <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="https://pizza-website1212.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="https://youdemi223.netlify.app" target="_blank">Preview</a></li>
     <li><a href="repo-link" target="_blank">Repo</a></li>
   </ul>
 </ul>
