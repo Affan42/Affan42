@@ -2,7 +2,38 @@
 
 <h2>👨‍💻Front-end projects</h2>
 
+<b>HTML , CSS & JS Websites</b>
+
+<ul>
+  <li>Restaurant Website</li>
+  <ul style="list-style: none; margin-left: 20px;">
+    <li><a href="https://pizza-website1212.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="repo-link" target="_blank">Repo</a></li>
+  </ul>
+    <li>Educational Website</li>
+  <ul style="list-style: none; margin-left: 20px;">
+    <li><a href="https://pizza-website1212.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="repo-link" target="_blank">Repo</a></li>
+  </ul>
+</ul>
+
+<b>HTML & CSS & JS Small Projects</b>
+
+<ul>
+  <li>Tic Tac Toe</li>
+  <ul style="list-style: none; margin-left: 20px;">
+    <li><a href="https://tic-tac-toe2323.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="repo-link" target="_blank">Repo</a></li>
+  </ul>
+    <li>Memory Game</li>
+  <ul style="list-style: none; margin-left: 20px;">
+    <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="repo-link" target="_blank">Repo</a></li>
+  </ul>
+</ul>
+
 <b>HTML & CSS Small Project</b>
+
 <ul>
   <li>Flipping Card</li>
   <ul style="list-style: none; margin-left: 20px;">
@@ -10,32 +41,8 @@
     <li><a href="repo-link" target="_blank">Repo</a></li>
   </ul>
 </ul>
-<b>HTML & CSS & JS Small Projects</b>
-<ul>
-  <li>Tic Tac Toe</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="preview-link" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
-  </ul>
-    <li>Memory Game</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="preview-link" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
-  </ul>
-</ul>
-<b>HTML , CSS & JS Websites</b>
-<ul>
-  <li>Restaurant Website</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="preview-link" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
-  </ul>
-    <li>Educational Website</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="preview-link" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
-  </ul>
-</ul>
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
