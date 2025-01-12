@@ -6,7 +6,7 @@
 <ul>
   <li>Flipping Card</li>
   <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="preview-link" target="_blank">Preview</a></li>
+    <li><a href="https://flipping-card783.netlify.app" target="_blank">Preview</a></li>
     <li><a href="repo-link" target="_blank">Repo</a></li>
   </ul>
 </ul>
