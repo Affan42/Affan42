@@ -8,12 +8,12 @@
   <li>Restaurant Website</li>
   <ul style="list-style: none; margin-left: 20px;">
     <li><a href="https://pizza-website1212.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
+    <li><a href="https://github.com/Affan42/Restaurant-Website" target="_blank">Repo</a></li>
   </ul>
     <li>Educational Website</li>
   <ul style="list-style: none; margin-left: 20px;">
     <li><a href="https://youdemi223.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
+    <li><a href="https://github.com/Affan42/Educational-Website" target="_blank">Repo</a></li>
   </ul>
 </ul>
 
@@ -23,12 +23,12 @@
   <li>Tic Tac Toe</li>
   <ul style="list-style: none; margin-left: 20px;">
     <li><a href="https://tic-tac-toe2323.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
+    <li><a href="https://github.com/Affan42/Tic-Tac-Toe" target="_blank">Repo</a></li>
   </ul>
     <li>Memory Game</li>
   <ul style="list-style: none; margin-left: 20px;">
     <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
+    <li><a href="https://github.com/Affan42/Memory-Game" target="_blank">Repo</a></li>
   </ul>
 </ul>
 
@@ -38,7 +38,7 @@
   <li>Flipping Card</li>
   <ul style="list-style: none; margin-left: 20px;">
     <li><a href="https://flipping-card783.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="repo-link" target="_blank">Repo</a></li>
+    <li><a href="https://github.com/Affan42/Flipping-Card" target="_blank">Repo</a></li>
   </ul>
 </ul>
 
