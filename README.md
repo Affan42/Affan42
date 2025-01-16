@@ -52,18 +52,14 @@
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
-<p>Email: <a href="mailto:skaffan3424@gmail.com">skaffan3424@gmail.com</a></p>
-
-<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.1.0/icons/x.svg" />][twitter]
-<!--
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.1.0/icons/gmail.svg" />][gmail]
 
 [twitter]: https://x.com/Affan4776
+[gmail]: mailto:your-email@gmail.com
 
-<!-- [linkedin]: https://linkedin.com/in/joshmadakor -->
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
