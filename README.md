@@ -51,12 +51,8 @@
   <li>Adding interactive features with JavaScript</li>
 </ul>
 
-<h3>🔭 I’m currently working on making a space website.</h3>
-
 <h2> 🤳 Connect with me:</h2>
 <p>Email: <a href="mailto:skaffan3424@gmail.com">skaffan3424@gmail.com</a></p>
-
-<h3>😄 Pronouns: he/him</h3>
 
 <h2> 🤳 Connect with me:</h2>
 
