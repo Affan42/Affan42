@@ -53,9 +53,12 @@
 
 <h3>🔭 I’m currently working on making a space website.</h3>
 
-<h3>📫 How to reach me:</h3>
+<h2> 🤳 Connect with me:</h2>
+<p>Email: <a href="mailto:skaffan3424@gmail.com">skaffan3424@gmail.com</a></p>
 
 <h3>😄 Pronouns: he/him</h3>
+
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.1.0/icons/x.svg" />][twitter]
 <!--
