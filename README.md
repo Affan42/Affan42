@@ -42,6 +42,12 @@
   </ul>
 </ul>
 
+
+<h3>🔭 I’m currently working on</h3>
+<ul>
+  <li>A portfolio website.</li>
+</ul>
+
 <h3>👯 I’m looking to collaborate on</h3>
 <ul>
   <li>Building responsive websites with HTML, CSS, and JavaScript</li>
