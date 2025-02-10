@@ -46,6 +46,7 @@
 <h3>🔭 I’m currently working on</h3>
 <ul>
   <li>A portfolio website.</li>
+  <li>A spin the wheel app.</li>
 </ul>
 
 <h3>👯 I’m looking to collaborate on</h3>
