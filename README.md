@@ -32,16 +32,6 @@
   </ul>
 </ul>
 
-<b>HTML & CSS Small Project</b>
-
-<ul>
-  <li>Flipping Card</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="https://flipping-card783.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="https://github.com/Affan42/Flipping-Card" target="_blank">Code</a></li>
-  </ul>
-</ul>
-
 
 <h3>🔭 I’m currently working on</h3>
 <ul>
