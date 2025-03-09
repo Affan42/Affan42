@@ -35,6 +35,11 @@
     <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
     <li><a href="https://github.com/Affan42/Memory-Game" target="_blank">Code</a></li>
   </ul>
+  <li>Weather App</li>
+  <ul style="list-style: none; margin-left: 20px;">
+    <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="https://github.com/Affan42/weather-app-js" target="_blank">Code</a></li>
+  </ul>
 </ul>
 
 
