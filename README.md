@@ -17,7 +17,7 @@
   </ul>
 </ul>
 
-<b>HTML & CSS & JS Small Projects</b>
+<b>HTML , CSS & JS Small Projects</b>
 
 <ul>
   <li>Tic Tac Toe</li>
@@ -35,11 +35,6 @@
     <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
     <li><a href="https://github.com/Affan42/Memory-Game" target="_blank">Code</a></li>
   </ul>
-  <li>Weather App</li>
-  <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="https://memory-game1232.netlify.app" target="_blank">Preview</a></li>
-    <li><a href="https://github.com/Affan42/weather-app-js" target="_blank">Code</a></li>
-  </ul>
 </ul>
 
 
@@ -48,6 +43,7 @@
   <li>A portfolio website.</li>
    <li>A space website.</li>
   <li>A Age Calculator.</li>
+   <li>A speed checker.</li>
 </ul>
 
 <h3>👯 I’m looking to collaborate on</h3>
