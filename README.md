@@ -7,12 +7,12 @@
 <ul>
   <li>Restaurant Website</li>
   <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="https://pizza-website1212.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="https://affans-pizza-website.netlify.app" target="_blank">Preview</a></li>
     <li><a href="https://github.com/Affan42/Restaurant-Website" target="_blank">Code</a></li>
   </ul>
     <li>Educational Website</li>
   <ul style="list-style: none; margin-left: 20px;">
-    <li><a href="https://youdemi223.netlify.app" target="_blank">Preview</a></li>
+    <li><a href="https://affans-educational-website.netlify.app" target="_blank">Preview</a></li>
     <li><a href="https://github.com/Affan42/Educational-Website" target="_blank">Code</a></li>
   </ul>
 </ul>
