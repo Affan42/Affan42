@@ -42,8 +42,8 @@
 <ul>
   <li>A portfolio website.</li>
    <li>A space website.</li>
-  <li>A Age Calculator.</li>
-   <li>A speed checker.</li>
+   
+   <li>A typing speed checker.</li>
 </ul>
 
 <h3>👯 I’m looking to collaborate on</h3>
